@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="ru.dustem.name" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>dustem</name>
+    <description>mobile book</description>
+    <author email="info@dustem.ru" href="http://seotlt.ru">Seotlt</author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
