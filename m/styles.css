@@ -1,0 +1,14 @@
+	html, body {margin:0;padding:0;border:10px solid #F4C0DC;overflow: hidden;
+            position: relative;z-index:9998;
+	    -webkit-transform: translate3d(0px, 0px, 0px);
+	    -webkit-transition: -webkit-transform 1s linear;
+	}
+	body {background:url('http://dustem.ru/templates/Dustem/images/back.jpg') repeat;font-size:16px;background:#fff;}
+	h1 {font-size:3em;margin:0;}
+	p {font-size:2em;}
+	a {text-decoration:none; color:#46060A;} 
+	.alf a{background:#770755;padding:10px;margin-right:5px;color:#fff;}
+	#znach img {width:90%;}
+	#znach {text-align:center;} 
+	#imena img {width:90%;}
+	 #menu{max-width: 100%;}
