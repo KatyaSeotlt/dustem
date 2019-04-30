@@ -3,6 +3,7 @@
     <name>dustem</name>
     <description>mobile book</description>
     <author email="info@dustem.ru" href="http://seotlt.ru">Seotlt</author>
+    <preference name="android-minSdkVersion" value="26" />
     <content src="index.html" />
     <access origin="*" />
 </widget>
